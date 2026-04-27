@@ -39,7 +39,7 @@ const dummyData = {
             name: "TastyGo Classic Burger",
             description: "Flame-grilled beef patty, aged cheddar, butter lettuce, vine tomato, TastyGo sauce",
             image_url:
-                "https://static.vecteezy.com/system/resources/previews/044/844/600/large_2x/homemade-fresh-tasty-burger-with-meat-and-cheese-classic-cheese-burger-and-vegetable-ai-generated-free-png.png",
+                "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60",
             price: 25.99,
             rating: 4.5,
             calories: 550,
